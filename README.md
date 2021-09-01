@@ -13,5 +13,5 @@
   <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="socket.io">
   <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql">
   <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio"> <br/>
-  <img src="https://github.com/VortexFhills/VortexFhills/blob/output/github-contribution-grid-snake.svg" alt="commit-snake"> <br/><br/>
+  <img src="https://github.com/VortexFhills/VortexFhills/blob/output/github-contribution-grid-snake.svg" alt="commit-snake">
 <p>
