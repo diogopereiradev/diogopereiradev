@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/icon.png" alt="icon"> <br/>
+  <img width="200px" src="images/avatar.png" alt="avatar"> <br/>
   <img src="images/title.png" alt="title"> <br/>
   <img height"100em" src="https://github-readme-stats.vercel.app/api?username=VortexFhills&hide_border=true&theme=github_dark&hide_title=true" alt="stats"> <br/><br/>
   <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5">
