@@ -1,6 +1,6 @@
 <p align="center">
   <img width="200px" src="images/avatar.png" alt="avatar"> <br/>
-  <img src="images/atitle.png" alt="atitle"> <br/>
+  <img src="images/btitle.png" alt="btitle"> <br/>
   <img height"100em" src="https://github-readme-stats.vercel.app/api?username=FhillSlinger&hide_border=true&theme=github_dark&hide_title=true" alt="stats">
   <img height"100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FhillSlinger&layout=compact&hide_title=true&theme=github_dark&hide_border=true" alt="stats"> <br/><br/>
   <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5">
