@@ -9,10 +9,8 @@
   <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass">
   <img width="40px" src="images/typescript.png" alt="typescript">
   <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs">
-  <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express">
-  <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="socket.io">
-  <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql">
-  <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio"> <br/>
+  <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql"> <br/><br/><br/>
+  <img height"100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FhillSlinger&layout=compact&hide_title=true&theme=github_dark&hide_border=true" alt="stats">
   <img src="https://activity-graph.herokuapp.com/graph?username=FhillSlinger&theme=github&hide_title=true&area=true&hide_border=true&point=47d3ee&bg_color=transparent&color=27d3ee" alt="activity-graph"> <br/>
   <img src="https://github.com/FhillSlinger/FhillSlinger/blob/output/github-contribution-grid-snake.svg" alt="commit-snake">
 <p>
