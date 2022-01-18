@@ -1,5 +1,5 @@
 <div>
-  <img align="right" width="500" src="images/computer3.svg" alt="avatar">
+  <img align="right" width="400" src="images/computer3.svg" alt="avatar">
   <h1>About me</h1>
   <p align="left">
      My name is Diogo, I'm 16 years old and I'm a 
