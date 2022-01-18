@@ -16,7 +16,7 @@
   </p>
   <p align="left">
     :globe_with_meridians:
-    <strong>Email:</strong> fhillslingercontact@gmail.com
+    <strong>Portfolio:</strong> Coming soon
   </p>
 </div>
 <br />
