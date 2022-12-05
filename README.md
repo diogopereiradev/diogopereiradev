@@ -8,11 +8,11 @@
   </p>
   <p align="left">
     :maple_leaf:
-    <strong>Technologies:</strong> React.js, Styled-Components, Next.js, Node.js, Typescript.
+    <strong>Technologies:</strong> React.js, Next.js, Typescript.
   </p>
   <p align="left">
     :leaves:
-    <strong>Tools:</strong> Visual Studio Code, Git, Github, Vercel, Heroku, Postman.
+    <strong>Tools:</strong> Visual Studio Code, Git, Github, Vercel.
   </p>
   <p align="left">
     :globe_with_meridians:
