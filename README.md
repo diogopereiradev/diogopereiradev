@@ -2,8 +2,8 @@
   <img align="right" width="450" src="images/computer3.svg" alt="avatar">
   <h1>About me</h1>
   <p align="left">
-     My name is Diogo, I'm 16 years old and I'm a 
-     <strong>Fullstack Web Developer</strong>, I have 2 years of experience 
+     My name is Diogo, I'm 17 years old and I'm a 
+     <strong>Front-End Developer</strong>, I have 2 years of experience 
     with studies and I currently do freelance work.
   </p>
   <p align="left">
