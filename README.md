@@ -32,6 +32,11 @@
   <p>I also usually study about Game Dev and Desktop Apps, in the free time.</p>
 </div>
 
+<div align="center" style="display: flex">
+    <img align="left" width="220px" src="/icons/invisible.png" alt="invisible"/>
+    <img align="right" width="220px" src="/icons/invisible.png" alt="invisible"/>
+  </div>
+
 <div align="left">
   <a href="https://www.linkedin.com/in/diogo-pereira-ba9a55225/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
