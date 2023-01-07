@@ -1,16 +1,16 @@
 <div>
   <div align="center" style="display: flex">
-    <img align="left" width="250px" src="/icons/rotatingcube.webp" alt="rotating-cube-1"/>
-    <img align="right" width="250px" src="/icons/rotatingcube.webp" alt="rotating-cube-2"/>
+    <img align="left" width="250" src="/icons/rotatingcube.webp" alt="rotating-cube-1"/>
+    <img align="right" width="250" src="/icons/rotatingcube.webp" alt="rotating-cube-2"/>
   </div>
 </div>
 
 <br/>
 <div align="center">
-  <img width="150px" src="/icons/perfilphoto-rounded.png"/>
+  <img width="150" src="/icons/perfilphoto-rounded.png"/>
   <h1>Diogo Pereira</h1>
   <div>
-    <img width="40x" title="Typescript" src="https://cdn.simpleicons.org/typescript/74c2e8" alt="typescript-logo"/>
+    <img width="40px" title="Typescript" src="https://cdn.simpleicons.org/typescript/74c2e8" alt="typescript-logo"/>
     &nbsp;&nbsp;
     <img width="45px" title="React.js" src="https://cdn.simpleicons.org/react/74c2e8" alt="react-logo"/>
     &nbsp;&nbsp;
@@ -23,8 +23,8 @@
 
 <div>
   <div align="center" style="display: flex">
-    <img align="left" width="220px" src="/icons/invisible.png" alt="invisible"/>
-    <img align="right" width="220px" src="/icons/invisible.png" alt="invisible"/>
+    <img align="left" width="220" src="/icons/invisible.png" alt="invisible"/>
+    <img align="right" width="220" src="/icons/invisible.png" alt="invisible"/>
   </div>
   <h3>About me</h3>
   <p>My name is Diogo Pereira, i'm 17 years older, i'm a Front-end developer.</p>
