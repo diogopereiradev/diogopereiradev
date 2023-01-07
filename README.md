@@ -34,20 +34,21 @@
   <p>My name is Diogo Pereira, i'm 17 years older, i'm a Front-end developer.</p>
   <p>I entered the programming area at the age of 14, and my first interaction was with the creation of plugins for Minecraft, after that i went to Web development, which is where i currently establish myself.</p>
   <p>I also usually study about Game Dev and Desktop Apps, in the free time.</p>
-  <hr />
   <br />
   <br />
+  <br />
+  <br />
+</div>
+
+
+<!--Social-->
+<div align="center">
   <div align="center" style="display: flex">
     <img align="left" width="30%" src="/icons/rotatingcube.webp" alt="rotating-cube-1"/>
     <img align="right" width="30%" src="/icons/rotatingcube.webp" alt="rotating-cube-2"/>
   </div>
-</div>
-
-<br />
-<br />
-
-<!--Social-->
-<div align="center">
+  <br />
+  <br />
   <h1>Social</h1>
   <a href="https://www.linkedin.com/in/diogo-pereira-ba9a55225/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
