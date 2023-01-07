@@ -23,8 +23,8 @@
 
 <div>
   <div align="center" style="display: flex">
-    <img align="left" width="200px" src="/icons/invisible.png" alt="invisible"/>
-    <img align="right" width="200px" src="/icons/invisible.png" alt="invisible"/>
+    <img align="left" width="220px" src="/icons/invisible.png" alt="invisible"/>
+    <img align="right" width="220px" src="/icons/invisible.png" alt="invisible"/>
   </div>
   <h3>About me</h3>
   <p>My name is Diogo Pereira, i'm 17 years older, i'm a Front-end developer.</p>
