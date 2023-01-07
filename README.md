@@ -23,7 +23,7 @@
 
 <div>
   <div align="center" style="display: flex">
-    <img align="left" width="230px" src="/icons/invisible.png" alt="invisible"/>
+    <img align="left" width="210px" src="/icons/invisible.png" alt="invisible"/>
     <img align="right" width="200px" src="/icons/invisible.png" alt="invisible"/>
   </div>
   <h3>About me</h3>
