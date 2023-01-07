@@ -47,8 +47,6 @@
     <img align="left" width="30%" src="/icons/rotatingcube.webp" alt="rotating-cube-1"/>
     <img align="right" width="30%" src="/icons/rotatingcube.webp" alt="rotating-cube-2"/>
   </div>
-  <br />
-  <br />
   <h1>Social</h1>
   <a href="https://www.linkedin.com/in/diogo-pereira-ba9a55225/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
