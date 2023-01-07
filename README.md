@@ -33,8 +33,8 @@
 </div>
 
 <div align="center" style="display: flex">
-    <img align="left" width="220px" src="/icons/invisible.png" alt="invisible"/>
-    <img align="right" width="220px" src="/icons/invisible.png" alt="invisible"/>
+    <img align="left" width="90px" src="/icons/invisible.png" alt="invisible"/>
+    <img align="right" width="90px" src="/icons/invisible.png" alt="invisible"/>
   </div>
 
 <div align="left">
