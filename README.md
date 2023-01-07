@@ -31,7 +31,7 @@
     <img align="right" width="22%" height="300px" src="/icons/invisible.png" alt="invisible"/>
   </div>
   <h2>About me</h2>
-  <h6>My name is Diogo Pereira, i'm 17 years older, i'm a Front-end developer.</h6>
-  <h6>I entered the programming area at the age of 14, and my first interaction was with the creation of plugins for Minecraft, after that i went to Web development, which is where i currently establish myself.</h6>
-  <h6>I also usually study about Game Dev and Desktop Apps, in the free time.</h6>
+  <h5>My name is Diogo Pereira, i'm 17 years older, i'm a Front-end developer.</h5>
+  <h5>I entered the programming area at the age of 14, and my first interaction was with the creation of plugins for Minecraft, after that i went to Web development, which is where i currently establish myself.</h5>
+  <h5>I also usually study about Game Dev and Desktop Apps, in the free time.</h5>
 </div>
