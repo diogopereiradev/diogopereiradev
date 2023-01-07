@@ -1,3 +1,4 @@
+<!--Top cubes-->
 <div>
   <div align="center" style="display: flex">
     <img align="left" width="30%" src="/icons/rotatingcube.webp" alt="rotating-cube-1"/>
@@ -6,6 +7,8 @@
 </div>
 
 <br/>
+
+<!--Top infos-->
 <div align="center">
   <img width="17%" src="/icons/perfilphoto-rounded.png"/>
   <h1>Diogo Pereira</h1>
@@ -21,6 +24,7 @@
   <br />
 </div>
 
+<!--About me-->
 <div>
   <div align="center" style="display: flex">
     <img align="left" width="20%" height="300px" src="/icons/invisible.png" alt="invisible"/>
@@ -33,8 +37,22 @@
   <hr />
   <br />
   <br />
-  <div align="left" style="display: flex">
+  <div align="center" style="display: flex">
     <img align="left" width="30%" src="/icons/rotatingcube.webp" alt="rotating-cube-1"/>
     <img align="right" width="30%" src="/icons/rotatingcube.webp" alt="rotating-cube-2"/>
   </div>
+</div>
+
+<!--Social-->
+<div align="center">
+  <h1>Social</h1>
+  <a href="https://www.linkedin.com/in/diogo-pereira-ba9a55225/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/users/882178309205671956" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://codepen.io/fhillslinger/pens/popular" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
+  </a>
 </div>
