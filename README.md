@@ -21,14 +21,13 @@
     &nbsp;&nbsp;
     <img width="45px" title="Styled-Components" src="https://cdn.simpleicons.org/styledcomponents/74c2e8" alt="styled-components-logo"/>
   </div>
-  <br />
 </div>
 
 <!--About me-->
 <div>
   <div align="center" style="display: flex">
-    <img align="left" width="22%" height="300px" src="/icons/invisible.png" alt="invisible"/>
-    <img align="right" width="22%" height="300px" src="/icons/invisible.png" alt="invisible"/>
+    <img align="left" width="22%" height="270px" src="/icons/invisible.png" alt="invisible"/>
+    <img align="right" width="22%" height="270px" src="/icons/invisible.png" alt="invisible"/>
   </div>
   <h2>About me</h2>
   <p>My name is Diogo Pereira, i'm 17 years older, i'm a Front-end developer.</p>
