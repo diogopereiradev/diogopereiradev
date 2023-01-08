@@ -35,3 +35,5 @@
   <p>I entered the programming area at the age of 14, and my first interaction was with the creation of plugins for Minecraft, after that i went to Web development, which is where i currently establish myself.</p>
   <p>I also usually study about Game Dev and Desktop Apps, in the free time.</p>
 </div>
+
+![Snake animation](https://github.com/FhillSlinger/FhillSlinger/blob/output/github-contribution-grid-snake.svg)
