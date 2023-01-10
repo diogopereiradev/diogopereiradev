@@ -37,5 +37,5 @@
 
 <!--Snake-->
 <div align="center">
-  <img src="https://github.com/FhillSlinger/FhillSlinger/blob/output/github-contribution-grid-snake.svg" alt="snake-animation"/>
+  <img align="center" src="https://github.com/FhillSlinger/FhillSlinger/blob/output/github-contribution-grid-snake.svg" alt="snake-animation"/>
 </div>
