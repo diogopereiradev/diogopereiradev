@@ -35,7 +35,7 @@
   <p>I also usually study about Game Dev and Desktop Apps, in the free time.</p>
 </div>
 
-<!--Snake-->
+<!--Snake Animation-->
 <div align="center">
   <img align="center" src="https://github.com/FhillSlinger/FhillSlinger/blob/output/github-contribution-grid-snake.svg" alt="snake-animation"/>
 </div>
