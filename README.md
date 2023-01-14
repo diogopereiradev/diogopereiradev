@@ -10,7 +10,7 @@
 
 <!--Top infos-->
 <div align="center">
-  <img width="17%" src="/icons/perfilphoto-rounded.png"/>
+  <img width="17%" src="/icons/perfil-2-round.png"/>
   <h1>Diogo Pereira</h1>
   <div>
     <img width="40px" title="Typescript" src="https://cdn.simpleicons.org/typescript/74c2e8" alt="typescript-logo"/>
