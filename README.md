@@ -42,7 +42,6 @@
 
 <br/>
 <br/>
-<br/>
 
 <!--Social-->
 <div align="center">
