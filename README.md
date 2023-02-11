@@ -10,7 +10,7 @@
 
 <!--Top infos-->
 <div align="center">
-  <img width="17%" src="/icons/perfil-2-round.png"/>
+  <img width="18%" src="/icons/perfil-2-round.png"/>
   <h1>Diogo Pereira</h1>
   <div>
     <img width="40px" title="Typescript" src="https://cdn.simpleicons.org/typescript/74c2e8" alt="typescript-logo"/>
@@ -46,9 +46,9 @@
 <!--Social-->
 <div align="center">
   <a href="https://www.linkedin.com/in/fhill-slinger/" target="_blank">
-    <img width="130px" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+    <img width="130px" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
   </a>
   <a href="https://discord.com/users/882178309205671956" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo" />
   </a>
 </div>
