@@ -1,49 +1,14 @@
-<!--Top cubes-->
-<div>
-  <div align="center" style="display: flex">
-    <img align="left" width="30%" src="/icons/rotatingcube.webp" alt="rotating-cube-1"/>
-    <img align="right" width="30%" src="/icons/rotatingcube.webp" alt="rotating-cube-2"/>
-  </div>
-</div>
+# 💫Sobre mim:
+Meu nome é Diogo Pereira, tenho 17 anos, estudo programação desde meus 14 anos, minha primeira interação foi na criação de plugins para o minecraft, e cheguei a trabalhar por um tempo em um servidor.
 
-<br/>
+Então resolvi migrar para a web pela quantidade de possibilidades na customização e ideias que você pode embuir em suas páginas, atualmente tenho o foco de me especializar na camada do Front-end, utilizando tecnologias como, React.js, Next.js e Typescript.
 
-<!--Top infos-->
-<div align="center">
-  <img width="18%" src="/icons/perfil-2-round.png"/>
-  <h1>Diogo Pereira</h1>
-  <div>
-    <img width="40px" title="Typescript" src="https://cdn.simpleicons.org/typescript/74c2e8" alt="typescript-logo"/>
-    &nbsp;&nbsp;
-    <img width="45px" title="React.js" src="https://cdn.simpleicons.org/react/74c2e8" alt="react-logo"/>
-    &nbsp;&nbsp;
-    <img width="45px" title="Next.js" src="https://cdn.simpleicons.org/next.js/74c2e8" alt="next-logo"/>
-    &nbsp;&nbsp;
-    <img width="45px" title="Styled-Components" src="https://cdn.simpleicons.org/styledcomponents/74c2e8" alt="styled-components-logo"/>
-  </div>
-</div>
 
-<!--About me-->
-<div>
-  <div align="center" style="display: flex">
-    <img align="left" width="22%" height="300px" src="/icons/invisible.png" alt="invisible"/>
-    <img align="right" width="22%" height="300px" src="/icons/invisible.png" alt="invisible"/>
-  </div>
-  <h2>About me</h2>
-  <p>My name is Diogo Pereira, i'm 17 years older, i'm a Front-end developer.</p>
-  <p>I entered the programming area at the age of 14, and my first interaction was with the creation of plugins for Minecraft, after that i went to Web development, which is where i currently establish myself.</p>
-  <p>I also usually study about Game Dev and Desktop Apps, in the free time.</p>
-</div>
+## 🌐 Redes sociais:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fhill-slinger) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/882178309205671956) 
 
-<br/>
-<br/>
-
-<!--Social-->
-<div align="center">
-  <a href="https://www.linkedin.com/in/fhill-slinger/" target="_blank">
-    <img width="140px" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://discord.com/users/882178309205671956" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo" />
-  </a>
-</div>
+# 💻 Tecnologias:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+---
+[![](https://visitcount.itsvg.in/api?id=FhillSlinger&icon=0&color=0)](https://visitcount.itsvg.in)
