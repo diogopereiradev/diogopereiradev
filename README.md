@@ -1,5 +1,5 @@
 # 💫Sobre mim:
-Meu nome é Diogo Pereira, tenho 17 anos, estudo programação desde meus 14 anos, minha primeira interação foi na criação de plugins para o minecraft, e cheguei a trabalhar por um tempo em um servidor.
+Meu nome é Diogo Pereira, tenho 18 anos, estudo programação desde meus 14 anos, minha primeira interação foi na criação de plugins para o minecraft, e cheguei a trabalhar por um tempo em um servidor.
 
 Então resolvi migrar para a web pela quantidade de possibilidades na customização e ideias que você pode imbuir em suas páginas, atualmente tenho o foco de me especializar na camada do Front-end, utilizando tecnologias como, React.js, Next.js e Typescript.
 
