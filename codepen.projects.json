@@ -1,0 +1,68 @@
+{
+  "projects": [
+    {
+      "name": "Age Calculator",
+      "description": {
+        "pt": "Calcule sua idade atual informando sua data de nascimento, projeto criado através de um desafio do sit Front-End mentor.",
+        "en": "Calculate your age from your date of birth, project created from the site front-end mentor."
+      },
+      "projectUrl": "ehttps://codepen.io/fhillslinger/pen/poxoLgb"
+    },
+    {
+      "name": "Search bar",
+      "description": {
+        "pt": "Um projeto simples de barra de pesquisa, desafio do servidor do discord \"Ballerini\".",
+        "en": "Simple project of a search bar, challenge by the \"Ballerini\" discord server."
+      },
+      "projectUrl": "https://codepen.io/fhillslinger/pen/yLRBPRK"
+    },
+    {
+      "name": "Responsive navbar",
+      "description": {
+        "pt": "Uma navbar responsiva, projeto feito para ajudar um amigo.",
+        "en": "Simple responsive navbar, project made to help a friend."
+      },
+      "projectUrl": "https://codepen.io/fhillslinger/pen/MWPzQZr"
+    },
+    {
+      "name": "Star pattern",
+      "description": {
+        "pt": "Crie um fundo de estrelas de forma responsiva usando javascript.",
+        "en": "Create a stars background responsively using javascript."
+      },
+      "projectUrl": "https://codepen.io/fhillslinger/pen/LYXPxOR"
+    },
+    {
+      "name": "Tables layout",
+      "description": {
+        "pt": "Um layout criado usando as tabelas do HTML.",
+        "en": "Layout made using the HTML tables."
+      },
+      "projectUrl": "https://codepen.io/fhillslinger/pen/oNaaWmN"
+    },
+    {
+      "name": "Game card",
+      "description": {
+        "pt": "Um card criado com a temática de jogos.",
+        "en": "Game themed card."
+      },
+      "projectUrl": "https://codepen.io/fhillslinger/pen/OJwNajB"
+    },
+    {
+      "name": "Pure CSS - Animated menu icon",
+      "description": {
+        "pt": "Um icone de menu animado criado usando apenas CSS.",
+        "en": "An animated menu icon created using only CSS."
+      },
+      "projectUrl": "https://codepen.io/fhillslinger/pen/OJEKMMd"
+    },
+    {
+      "name": "Product card",
+      "description": {
+        "pt": "Um card simples apresentando um produto.",
+        "en": "A simple card featuring a product."
+      },
+      "projectUrl": "https://codepen.io/fhillslinger/pen/vYzqLwV"
+    },
+  ]
+}
