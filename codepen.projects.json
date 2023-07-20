@@ -25,14 +25,6 @@
       "projectUrl": "https://codepen.io/fhillslinger/pen/MWPzQZr"
     },
     {
-      "name": "Star pattern",
-      "description": {
-        "pt": "Crie um fundo de estrelas de forma responsiva usando javascript.",
-        "en": "Create a stars background responsively using javascript."
-      },
-      "projectUrl": "https://codepen.io/fhillslinger/pen/LYXPxOR"
-    },
-    {
       "name": "Tables layout",
       "description": {
         "pt": "Um layout criado usando as tabelas do HTML.",
@@ -55,14 +47,6 @@
         "en": "An animated menu icon created using only CSS."
       },
       "projectUrl": "https://codepen.io/fhillslinger/pen/OJEKMMd"
-    },
-    {
-      "name": "Product card",
-      "description": {
-        "pt": "Um card simples apresentando um produto.",
-        "en": "A simple card featuring a product."
-      },
-      "projectUrl": "https://codepen.io/fhillslinger/pen/vYzqLwV"
     }
   ]
 }
