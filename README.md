@@ -1,7 +1,7 @@
 # 💫 Sobre mim
 Meu nome é Diogo Pereira, tenho 18 anos, estudo programação desde meus 14 anos, minha primeira interação foi na criação de plugins para o minecraft, e cheguei a trabalhar por um tempo em um servidor.
 
-Então resolvi migrar para a web pela quantidade de possibilidades na customização e ideias que você pode imbuir em suas páginas, atualmente tenho o foco de me especializar na camada do Front-end, utilizando tecnologias como, React.js, Next.js e Typescript.
+Então resolvi migrar para a web pela quantidade de possibilidades na customização e ideias que você pode imbuir em suas páginas, atualmente tenho o foco de me especializar na camada do Front-end, utilizando tecnologias como, Vue.js, Nuxt.js, React.js, Next.js e Typescript.
 
 ### 🌐 Traduções/Translations
 
@@ -10,7 +10,7 @@ Então resolvi migrar para a web pela quantidade de possibilidades na customiza�
   My name is Diogo Pereira, I'm 18 years old, and I've been studying programming since I was 14. My first interaction was in creating plugins for Minecraft, and I even worked for a while on a server.
   <br />
   <br />
-  Then, I decided to transition to the web due to the myriad of possibilities for customization and the ideas you can imbue into your pages. Currently, my focus is on specializing in the Front-end layer, using technologies such as React.js, Next.js, and Typescript.
+  Then, I decided to transition to the web due to the myriad of possibilities for customization and the ideas you can imbue into your pages. Currently, my focus is on specializing in the Front-end layer, using technologies such as Vue.js, Nuxt.js, React.js, Next.js, and Typescript.
 </details>
 
 
