@@ -15,7 +15,7 @@ Portfolio: https://diogopereira.tech/
   Então resolvi migrar para a web pela quantidade de possibilidades na customização e ideias que você pode imbuir em suas páginas, atualmente tenho o foco de me especializar na camada do Front-end, utilizando tecnologias como, Vue.js, Nuxt.js, React.js, Next.js e Typescript.
   <br/>
   <br/>
-  Portfolio: https://diogopereira.tech/
+  Portfolio: https://diogopereira.site/
 </details>
 
 
