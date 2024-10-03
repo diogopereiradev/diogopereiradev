@@ -3,7 +3,7 @@ My name is Diogo Pereira, and I've been studying programming since I was 14. My 
 
 Then, I decided to transition to the web due to the myriad of possibilities for customization and the ideas you can imbue into your pages. Currently, my focus is on specializing in the Front-end layer, using technologies such as Vue.js, Nuxt.js, React.js, Next.js, and Typescript.
 
-Portfolio: https://diogopereira.tech/
+Portfolio: https://diogopereira.site/
 
 ### 🌐 Translations
 
