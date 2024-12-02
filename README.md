@@ -1,7 +1,7 @@
 # 💫 About me
 My name is Diogo Pereira, and I've been studying programming since I was 14. My first interaction was in creating plugins for Minecraft, and I even worked for a while on a server.
 
-Then, I decided to transition to the web due to the myriad of possibilities for customization and the ideas you can imbue into your pages. Currently, my focus is on specializing in the Front-end layer, using technologies such as Vue.js, Nuxt.js, React.js, Next.js, and Typescript.
+I am currently a Fullstack developer always seeking opportunities to grow. I have experience in various areas, as I have worked on freelance projects that required more generalist skills, including development for mobile, desktop, and DevOps. However, my main focus is web development, both front-end and back-end.
 
 Portfolio: https://diogopereira.site/
 
@@ -9,10 +9,10 @@ Portfolio: https://diogopereira.site/
 
 <details>
   <summary>Português</summary>
-  Meu nome é Diogo Pereira, estudo programação desde meus 14 anos, minha primeira interação foi na criação de plugins para o minecraft, e cheguei a trabalhar por um tempo em um servidor.
+Meu nome é Diogo Pereira e estudo programação desde os 14 anos. Minha primeira interação foi criando plugins para Minecraft, e até cheguei a trabalhar por um tempo em um servidor.
   <br />
   <br />
-  Então resolvi migrar para a web pela quantidade de possibilidades na customização e ideias que você pode imbuir em suas páginas, atualmente tenho o foco de me especializar na camada do Front-end, utilizando tecnologias como, Vue.js, Nuxt.js, React.js, Next.js e Typescript.
+Atualmente, sou desenvolvedor Fullstack, sempre em busca de oportunidades para crescer. Tenho experiência em diversas áreas, pois trabalhei em projetos freelance que exigiam habilidades mais generalistas, incluindo desenvolvimento para mobile, desktop e DevOps. No entanto, meu foco principal é o desenvolvimento web, tanto no front-end quanto no back-end.
   <br/>
   <br/>
   Portfolio: https://diogopereira.site/
