@@ -15,12 +15,12 @@ Meu nome é Diogo Pereira e estudo programação desde os 14 anos. Minha primeir
 Atualmente, sou desenvolvedor Fullstack, sempre em busca de oportunidades para crescer. Tenho experiência em diversas áreas, pois trabalhei em projetos freelance que exigiam habilidades mais generalistas, incluindo desenvolvimento para mobile, desktop e DevOps. No entanto, meu foco principal é o desenvolvimento web, tanto no front-end quanto no back-end.
   <br/>
   <br/>
-  Portfolio: https://diogopereira.site/
+  Portfolio: https://diogopereira.dev/
 </details>
 
 
 ## 💬 Social Medias:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fhill-slinger) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diogopereiradev) 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/882178309205671956) 
 
 # 💻 Technologies:
