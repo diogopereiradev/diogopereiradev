@@ -3,7 +3,7 @@ My name is Diogo Pereira, and I've been studying programming since I was 14. My 
 
 I am currently a Fullstack developer always seeking opportunities to grow. I have experience in various areas, as I have worked on freelance projects that required more generalist skills, including development for mobile, desktop, and DevOps. However, my main focus is web development, both front-end and back-end.
 
-Portfolio: https://diogopereira.site/
+Portfolio: https://diogopereira.dev/
 
 ### 🌐 Translations
 
